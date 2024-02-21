@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlwYXlid21iMTJ2cHo3dXhldmxzN2EwNG00ZmV0NXJyaHJzNDJtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif" width="400" height="200"/>
 </div> -->
 
-### :man_technologist: About me:
+### :man_technologist: Обо мне:
 
 Я Bakend-разработчик на <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm43YmJhdm03dXVwYXhoNDJ6cWl3YWY2MTF0dm15MTVlMmloZHE0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="15">Python.
 
@@ -24,8 +24,9 @@ Python, Django Framework, DRF, Flask, PostgreSQL, Nginx, Git, REST, Docker, Dock
 
 ### 📖 Что мной сделано:
 
+- Django,  DRF. [Дипломная работа](https://github.com/Maxval13/Diplom)
 - Python. [Курсовая работа "Резервное копирование"](https://github.com/Maxval13/VK-foto-Ydisk)
-- Django,  DRF. [Дипломная работа](https://github.com/Maxval13/Diplom) 
+ 
 
 ---
 
