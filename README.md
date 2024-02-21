@@ -4,7 +4,7 @@
 
   </div>
     <img src="https://komarev.com/ghpvc/?username=Maxval13&style=plastic&color=blue" alt=""/>
-    <h1> hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
+    <h3> Привет, меня зовут Денис. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
  </div>
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlwYXlid21iMTJ2cHo3dXhldmxzN2EwNG00ZmV0NXJyaHJzNDJtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif" width="400" height="200"/>
